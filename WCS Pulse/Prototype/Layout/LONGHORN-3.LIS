@@ -1,0 +1,133 @@
+Post Processor Report
+OrCAD FILE: C:\DOCUMENTS AND SETTINGS\VILLAVERDE\MEUS DOCUMENTOS\CARDIOMED\PROJETO LONGHORN\LAYOUT\LONGHORN-3.MAX
+Fri Mar 25 10:08:01 2011
+
+*********************************************************
+
+Output file: C:\DOCUMENTS AND SETTINGS\VILLAVERDE\MEUS DOCUMENTOS\CARDIOMED\PROJETO LONGHORN\LAYOUT\LONGHORN-3.TOP
+
+Aperture totals for C:\DOCUMENTS AND SETTINGS\VILLAVERDE\MEUS DOCUMENTOS\CARDIOMED\PROJETO LONGHORN\LAYOUT\LONGHORN-3.TOP:
+---------------------------------------------------------
+D10:  0.0600 SQUARE --       0 Draws,      46 Flashes
+D11:  0.0620 ROUND  --       0 Draws,       1 Flashes
+D12:  0.0620 SQUARE --       0 Draws,       1 Flashes
+D13:  0.0580 ROUND  --       0 Draws,       9 Flashes
+D14:  0.0580 SQUARE --       0 Draws,       3 Flashes
+D15:  0.0160 x 0.0900 OBLONG    -----      19 Flashes
+D16:  0.0160 x 0.0900 RECTANGLE -----       1 Flashes
+D17:  0.0250 x 0.0940 OBLONG    -----      13 Flashes
+D18:  0.0250 x 0.0940 RECTANGLE -----       1 Flashes
+D19:  0.0100 ROUND  --     178 Draws,       0 Flashes
+D20:  0.0300 ROUND  --       0 Draws,      10 Flashes
+---------------------------------------------------------
+ 11 D-Codes      -----     178 Draws,     104 Flashes
+
+*********************************************************
+
+Output file: C:\DOCUMENTS AND SETTINGS\VILLAVERDE\MEUS DOCUMENTOS\CARDIOMED\PROJETO LONGHORN\LAYOUT\LONGHORN-3.BOT
+
+Aperture totals for C:\DOCUMENTS AND SETTINGS\VILLAVERDE\MEUS DOCUMENTOS\CARDIOMED\PROJETO LONGHORN\LAYOUT\LONGHORN-3.BOT:
+---------------------------------------------------------
+D19:  0.0100 ROUND  --      21 Draws,       0 Flashes
+D20:  0.0300 ROUND  --       0 Draws,       9 Flashes
+D21:  0.0620 ROUND  --       0 Draws,       1 Flashes
+D22:  0.0620 SQUARE --       0 Draws,       1 Flashes
+D23:  0.0580 ROUND  --       0 Draws,       9 Flashes
+D24:  0.0580 SQUARE --       0 Draws,       3 Flashes
+D25:  0.0300 ROUND  --       0 Draws,       1 Flashes
+---------------------------------------------------------
+  7 D-Codes      -----      21 Draws,      24 Flashes
+
+*********************************************************
+
+Output file: C:\DOCUMENTS AND SETTINGS\VILLAVERDE\MEUS DOCUMENTOS\CARDIOMED\PROJETO LONGHORN\LAYOUT\LONGHORN-3.SMT
+
+Aperture totals for C:\DOCUMENTS AND SETTINGS\VILLAVERDE\MEUS DOCUMENTOS\CARDIOMED\PROJETO LONGHORN\LAYOUT\LONGHORN-3.SMT:
+---------------------------------------------------------
+D21:  0.0620 ROUND  --       0 Draws,       1 Flashes
+D22:  0.0620 SQUARE --       0 Draws,       1 Flashes
+D23:  0.0580 ROUND  --       0 Draws,       9 Flashes
+D24:  0.0580 SQUARE --       0 Draws,       3 Flashes
+D26:  0.0600 SQUARE --       0 Draws,      46 Flashes
+D27:  0.2047 ROUND  --       0 Draws,       2 Flashes
+D28:  0.0160 x 0.0900 OBLONG    -----      19 Flashes
+D29:  0.0160 x 0.0900 RECTANGLE -----       1 Flashes
+D30:  0.0250 x 0.0940 OBLONG    -----      13 Flashes
+D31:  0.0250 x 0.0940 RECTANGLE -----       1 Flashes
+D32:  0.0350 ROUND  --       0 Draws,      10 Flashes
+---------------------------------------------------------
+ 11 D-Codes      -----       0 Draws,     106 Flashes
+
+*********************************************************
+
+Output file: C:\DOCUMENTS AND SETTINGS\VILLAVERDE\MEUS DOCUMENTOS\CARDIOMED\PROJETO LONGHORN\LAYOUT\LONGHORN-3.SMB
+
+Aperture totals for C:\DOCUMENTS AND SETTINGS\VILLAVERDE\MEUS DOCUMENTOS\CARDIOMED\PROJETO LONGHORN\LAYOUT\LONGHORN-3.SMB:
+---------------------------------------------------------
+D21:  0.0620 ROUND  --       0 Draws,       1 Flashes
+D22:  0.0620 SQUARE --       0 Draws,       1 Flashes
+D23:  0.0580 ROUND  --       0 Draws,       9 Flashes
+D24:  0.0580 SQUARE --       0 Draws,       3 Flashes
+D27:  0.2047 ROUND  --       0 Draws,       2 Flashes
+D32:  0.0350 ROUND  --       0 Draws,      10 Flashes
+---------------------------------------------------------
+  6 D-Codes      -----       0 Draws,      26 Flashes
+
+*********************************************************
+
+Output file: C:\DOCUMENTS AND SETTINGS\VILLAVERDE\MEUS DOCUMENTOS\CARDIOMED\PROJETO LONGHORN\LAYOUT\LONGHORN-3.SST
+
+Aperture totals for C:\DOCUMENTS AND SETTINGS\VILLAVERDE\MEUS DOCUMENTOS\CARDIOMED\PROJETO LONGHORN\LAYOUT\LONGHORN-3.SST:
+---------------------------------------------------------
+D33:  0.0080 ROUND  --     190 Draws,       0 Flashes
+D34:  0.0060 ROUND  --     421 Draws,       0 Flashes
+---------------------------------------------------------
+  2 D-Codes      -----     611 Draws,       0 Flashes
+
+*********************************************************
+
+Output file: C:\DOCUMENTS AND SETTINGS\VILLAVERDE\MEUS DOCUMENTOS\CARDIOMED\PROJETO LONGHORN\LAYOUT\LONGHORN-3.DRD
+
+Aperture totals for C:\DOCUMENTS AND SETTINGS\VILLAVERDE\MEUS DOCUMENTOS\CARDIOMED\PROJETO LONGHORN\LAYOUT\LONGHORN-3.DRD:
+---------------------------------------------------------
+D19:  0.0100 ROUND  --     573 Draws,       0 Flashes
+D35:  0.0039 ROUND  --       4 Draws,       0 Flashes
+---------------------------------------------------------
+  2 D-Codes      -----     577 Draws,       0 Flashes
+
+
+*********************************************************
+
+Aperture totals for entire project:
+---------------------------------------------------------
+D10:  0.0600 SQUARE --       0 Draws,      46 Flashes
+D11:  0.0620 ROUND  --       0 Draws,       1 Flashes
+D12:  0.0620 SQUARE --       0 Draws,       1 Flashes
+D13:  0.0580 ROUND  --       0 Draws,       9 Flashes
+D14:  0.0580 SQUARE --       0 Draws,       3 Flashes
+D15:  0.0160 x 0.0900 OBLONG    -----      19 Flashes
+D16:  0.0160 x 0.0900 RECTANGLE -----       1 Flashes
+D17:  0.0250 x 0.0940 OBLONG    -----      13 Flashes
+D18:  0.0250 x 0.0940 RECTANGLE -----       1 Flashes
+D19:  0.0100 ROUND  --     772 Draws,       0 Flashes
+D20:  0.0300 ROUND  --       0 Draws,      19 Flashes
+D21:  0.0620 ROUND  --       0 Draws,       3 Flashes
+D22:  0.0620 SQUARE --       0 Draws,       3 Flashes
+D23:  0.0580 ROUND  --       0 Draws,      27 Flashes
+D24:  0.0580 SQUARE --       0 Draws,       9 Flashes
+D25:  0.0300 ROUND  --       0 Draws,       1 Flashes
+D26:  0.0600 SQUARE --       0 Draws,      46 Flashes
+D27:  0.2047 ROUND  --       0 Draws,       4 Flashes
+D28:  0.0160 x 0.0900 OBLONG    -----      19 Flashes
+D29:  0.0160 x 0.0900 RECTANGLE -----       1 Flashes
+D30:  0.0250 x 0.0940 OBLONG    -----      13 Flashes
+D31:  0.0250 x 0.0940 RECTANGLE -----       1 Flashes
+D32:  0.0350 ROUND  --       0 Draws,      20 Flashes
+D33:  0.0080 ROUND  --     190 Draws,       0 Flashes
+D34:  0.0060 ROUND  --     421 Draws,       0 Flashes
+D35:  0.0039 ROUND  --       4 Draws,       0 Flashes
+---------------------------------------------------------
+ 26 D-Codes      -----    1387 Draws,     260 Flashes
+
+
+No warnings or errors.

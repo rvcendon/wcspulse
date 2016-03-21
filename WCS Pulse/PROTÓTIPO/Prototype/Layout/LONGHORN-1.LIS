@@ -1,0 +1,67 @@
+AutoECO Report
+FILE-A: C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT_PLUS\DATA\METRIC.TCH
+FILE-B: C:\DOCUMENTS AND SETTINGS\VILLAVERDE\MEUS DOCUMENTOS\CARDIOMED\PROJETO LONGHORN\SCHEMATIC\LONGHORN.MNL
+If "*EOF*" immediately follows, no changes were made
+Adding package RESISTOR
+Adding package CAP_NP
+Adding package INDUCTOR
+Adding package OPA4234
+Adding package PIC18F13K50_0
+Adding package CON6
+Adding package CON4
+Adding package LED
+Adding component R12
+Found footprint SM/C_1206 from PRT file for part RESISTOR, comp R12
+Adding component R1
+Adding component C3
+Adding component R4
+Adding component R8
+Adding component R2
+Adding component L1
+Adding component R5
+Adding component R9
+Adding component U2
+Adding component R10
+Adding component R16
+Adding component C1
+Adding component C2
+Adding component C7
+Adding component R11
+Adding component U1
+Adding component R14
+Adding component R6
+Adding component C5
+Adding component R7
+Adding component R13
+Adding component J2
+Adding component R3
+Adding component C4
+Adding component J1
+Found footprint POLCON.100/VH/TM1SQS/W.300/4 from PRT file for part CON4, comp J1
+Adding component C6
+Adding component R15
+Adding component D1
+Found footprint BLKCON.100/VH/TM1SQS/W.100/2 from PRT file for part LED, comp D1
+Adding net N185981
+Adding net N185877
+Adding net N185969
+Adding net N186013
+Adding net N186005
+Adding net GND
+Adding net N186377
+Adding net VCINTA
+Adding net N185957
+Adding net N186405
+Adding net N186261
+Adding net N186393
+Adding net N185933
+Adding net N186309
+Adding net D+
+Adding net D-
+Adding net 5V
+Adding net N208938
+Adding net VPP
+Adding net N214661
+Deleting net DEFAULT
+*EOF*
+No errors found

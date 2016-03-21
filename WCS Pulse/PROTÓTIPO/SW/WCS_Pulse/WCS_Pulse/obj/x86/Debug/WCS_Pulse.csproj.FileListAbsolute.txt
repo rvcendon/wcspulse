@@ -1,0 +1,51 @@
+C:\Documents and Settings\villaverde\Meus documentos\CARDIOMED\PROJETO LONGHORN\SW\WCS_Pulse\WCS_Pulse\bin\Debug\wcs_pulse_db.mdb
+C:\Documents and Settings\villaverde\Meus documentos\CARDIOMED\PROJETO LONGHORN\SW\WCS_Pulse\WCS_Pulse\bin\Debug\WCS_Pulse.exe.config
+C:\Documents and Settings\villaverde\Meus documentos\CARDIOMED\PROJETO LONGHORN\SW\WCS_Pulse\WCS_Pulse\bin\Debug\WCS_Pulse.exe
+C:\Documents and Settings\villaverde\Meus documentos\CARDIOMED\PROJETO LONGHORN\SW\WCS_Pulse\WCS_Pulse\bin\Debug\WCS_Pulse.pdb
+C:\Documents and Settings\villaverde\Meus documentos\CARDIOMED\PROJETO LONGHORN\SW\WCS_Pulse\WCS_Pulse\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\villaverde\Meus documentos\CARDIOMED\PROJETO LONGHORN\SW\WCS_Pulse\WCS_Pulse\obj\x86\Debug\WCS_Pulse.Properties.Resources.resources
+C:\Documents and Settings\villaverde\Meus documentos\CARDIOMED\PROJETO LONGHORN\SW\WCS_Pulse\WCS_Pulse\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\villaverde\Meus documentos\CARDIOMED\PROJETO LONGHORN\SW\WCS_Pulse\WCS_Pulse\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\villaverde\Meus documentos\CARDIOMED\PROJETO LONGHORN\SW\WCS_Pulse\WCS_Pulse\obj\x86\Debug\WCS_Pulse.exe
+C:\Documents and Settings\villaverde\Meus documentos\CARDIOMED\PROJETO LONGHORN\SW\WCS_Pulse\WCS_Pulse\obj\x86\Debug\WCS_Pulse.pdb
+C:\Documents and Settings\villaverde\Meus documentos\CARDIOMED\PROJETO LONGHORN\SW\WCS_Pulse\WCS_Pulse\obj\x86\Debug\WCS_Pulse.frm_Avaliacao.resources
+C:\Documents and Settings\villaverde\Meus documentos\CARDIOMED\PROJETO LONGHORN\SW\WCS_Pulse\WCS_Pulse\obj\x86\Debug\WCS_Pulse.frmMonitor.resources
+C:\Documents and Settings\villaverde\Meus documentos\CARDIOMED\PROJETO LONGHORN\SW\WCS_Pulse\WCS_Pulse\obj\x86\Debug\WCS_Pulse.frm_PesquisaPessoa.resources
+C:\Documents and Settings\villaverde\Meus documentos\CARDIOMED\PROJETO LONGHORN\SW\WCS_Pulse\WCS_Pulse\obj\x86\Debug\WCS_Pulse.frm_Pessoa.resources
+C:\Documents and Settings\villaverde\Meus documentos\CARDIOMED\PROJETO LONGHORN\SW\WCS_Pulse\WCS_Pulse\obj\x86\Debug\WCS_Pulse.frm_Principal.resources
+C:\Documents and Settings\villaverde\Meus documentos\CARDIOMED\PROJETO LONGHORN\SW\WCS_Pulse\WCS_Pulse\obj\x86\Debug\WCS_Pulse.frm_PesquisaAvaliacao.resources
+C:\Documents and Settings\villaverde\Meus documentos\CARDIOMED\PROJETO WCS PULSE\SW\WCS_Pulse\WCS_Pulse\bin\Debug\WCS_Pulse.exe.config
+C:\Documents and Settings\villaverde\Meus documentos\CARDIOMED\PROJETO WCS PULSE\SW\WCS_Pulse\WCS_Pulse\obj\x86\Debug\WCS_Pulse.exe
+C:\Documents and Settings\villaverde\Meus documentos\CARDIOMED\PROJETO WCS PULSE\SW\WCS_Pulse\WCS_Pulse\obj\x86\Debug\WCS_Pulse.pdb
+C:\Documents and Settings\villaverde\Meus documentos\CARDIOMED\PROJETO WCS PULSE\SW\WCS_Pulse\WCS_Pulse\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\villaverde\Meus documentos\CARDIOMED\PROJETO WCS PULSE\SW\WCS_Pulse\WCS_Pulse\obj\x86\Debug\WCS_Pulse.frm_Avaliacao.resources
+C:\Documents and Settings\villaverde\Meus documentos\CARDIOMED\PROJETO WCS PULSE\SW\WCS_Pulse\WCS_Pulse\obj\x86\Debug\WCS_Pulse.frmMonitor.resources
+C:\Documents and Settings\villaverde\Meus documentos\CARDIOMED\PROJETO WCS PULSE\SW\WCS_Pulse\WCS_Pulse\obj\x86\Debug\WCS_Pulse.frm_PesquisaAvaliacao.resources
+C:\Documents and Settings\villaverde\Meus documentos\CARDIOMED\PROJETO WCS PULSE\SW\WCS_Pulse\WCS_Pulse\obj\x86\Debug\WCS_Pulse.frm_PesquisaPessoa.resources
+C:\Documents and Settings\villaverde\Meus documentos\CARDIOMED\PROJETO WCS PULSE\SW\WCS_Pulse\WCS_Pulse\obj\x86\Debug\WCS_Pulse.frm_Pessoa.resources
+C:\Documents and Settings\villaverde\Meus documentos\CARDIOMED\PROJETO WCS PULSE\SW\WCS_Pulse\WCS_Pulse\obj\x86\Debug\WCS_Pulse.frm_Principal.resources
+C:\Documents and Settings\villaverde\Meus documentos\CARDIOMED\PROJETO WCS PULSE\SW\WCS_Pulse\WCS_Pulse\obj\x86\Debug\WCS_Pulse.Properties.Resources.resources
+C:\Documents and Settings\villaverde\Meus documentos\CARDIOMED\PROJETO WCS PULSE\SW\WCS_Pulse\WCS_Pulse\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\villaverde\Meus documentos\CARDIOMED\PROJETO WCS PULSE\SW\WCS_Pulse\WCS_Pulse\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\villaverde\Meus documentos\CARDIOMED\PROJETO WCS PULSE\SW\WCS_Pulse\WCS_Pulse\bin\Debug\wcs_pulse_db.mdb
+C:\Documents and Settings\villaverde\Meus documentos\CARDIOMED\PROJETO WCS PULSE\SW\WCS_Pulse\WCS_Pulse\bin\Debug\WCS_Pulse.exe
+C:\Documents and Settings\villaverde\Meus documentos\CARDIOMED\PROJETO WCS PULSE\SW\WCS_Pulse\WCS_Pulse\bin\Debug\WCS_Pulse.pdb
+E:\PC CARDIOMED\Documents\CARDIOMED\PROJETO WCS PULSE\SW\WCS_Pulse\WCS_Pulse\bin\Debug\WCS_Pulse.exe.config
+E:\PC CARDIOMED\Documents\CARDIOMED\PROJETO WCS PULSE\SW\WCS_Pulse\WCS_Pulse\obj\x86\Debug\WCS_Pulse.exe
+E:\PC CARDIOMED\Documents\CARDIOMED\PROJETO WCS PULSE\SW\WCS_Pulse\WCS_Pulse\obj\x86\Debug\WCS_Pulse.pdb
+C:\Users\villaverde\Desktop\Kairos\Cardiomed\WCS Pulse\SW\WCS_Pulse\WCS_Pulse\bin\Debug\WCS_Pulse.exe.config
+C:\Users\villaverde\Desktop\Kairos\Cardiomed\WCS Pulse\SW\WCS_Pulse\WCS_Pulse\obj\x86\Debug\WCS_Pulse.exe
+C:\Users\villaverde\Desktop\Kairos\Cardiomed\WCS Pulse\SW\WCS_Pulse\WCS_Pulse\obj\x86\Debug\WCS_Pulse.pdb
+C:\Users\villaverde\Desktop\Kairos\Cardiomed\WCS Pulse\SW\WCS_Pulse\WCS_Pulse\bin\Debug\wcs_pulse_db.mdb
+C:\Users\villaverde\Desktop\Kairos\Cardiomed\WCS Pulse\SW\WCS_Pulse\WCS_Pulse\bin\Debug\WCS_Pulse.exe
+C:\Users\villaverde\Desktop\Kairos\Cardiomed\WCS Pulse\SW\WCS_Pulse\WCS_Pulse\bin\Debug\WCS_Pulse.pdb
+C:\Users\villaverde\Desktop\Kairos\Cardiomed\WCS Pulse\SW\WCS_Pulse\WCS_Pulse\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\villaverde\Desktop\Kairos\Cardiomed\WCS Pulse\SW\WCS_Pulse\WCS_Pulse\obj\x86\Debug\WCS_Pulse.frm_Avaliacao.resources
+C:\Users\villaverde\Desktop\Kairos\Cardiomed\WCS Pulse\SW\WCS_Pulse\WCS_Pulse\obj\x86\Debug\WCS_Pulse.frmMonitor.resources
+C:\Users\villaverde\Desktop\Kairos\Cardiomed\WCS Pulse\SW\WCS_Pulse\WCS_Pulse\obj\x86\Debug\WCS_Pulse.frm_PesquisaAvaliacao.resources
+C:\Users\villaverde\Desktop\Kairos\Cardiomed\WCS Pulse\SW\WCS_Pulse\WCS_Pulse\obj\x86\Debug\WCS_Pulse.frm_PesquisaPessoa.resources
+C:\Users\villaverde\Desktop\Kairos\Cardiomed\WCS Pulse\SW\WCS_Pulse\WCS_Pulse\obj\x86\Debug\WCS_Pulse.frm_Pessoa.resources
+C:\Users\villaverde\Desktop\Kairos\Cardiomed\WCS Pulse\SW\WCS_Pulse\WCS_Pulse\obj\x86\Debug\WCS_Pulse.frm_Principal.resources
+C:\Users\villaverde\Desktop\Kairos\Cardiomed\WCS Pulse\SW\WCS_Pulse\WCS_Pulse\obj\x86\Debug\WCS_Pulse.Properties.Resources.resources
+C:\Users\villaverde\Desktop\Kairos\Cardiomed\WCS Pulse\SW\WCS_Pulse\WCS_Pulse\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\villaverde\Desktop\Kairos\Cardiomed\WCS Pulse\SW\WCS_Pulse\WCS_Pulse\obj\x86\Debug\GenerateResource.write.1.tlog

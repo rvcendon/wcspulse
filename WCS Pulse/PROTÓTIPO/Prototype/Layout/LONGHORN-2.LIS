@@ -1,0 +1,24 @@
+AutoECO Report
+FILE-A: C:\DOCUMENTS AND SETTINGS\VILLAVERDE\MEUS DOCUMENTOS\CARDIOMED\PROJETO LONGHORN\LAYOUT\LONGHORN-1.MAX
+FILE-B: C:\DOCUMENTS AND SETTINGS\VILLAVERDE\MEUS DOCUMENTOS\CARDIOMED\PROJETO LONGHORN\SCHEMATIC\LONGHORN.MNL
+If "*EOF*" immediately follows, no changes were made
+Deleting U2.13 from net N185981
+Adding U2.9 to net N185981
+Deleting U2.14 from net N185969
+Adding U2.8 to net N185969
+Deleting U2.6 from net N186013
+Adding U2.13 to net N186013
+Deleting U2.9 from net N186377
+Adding U2.6 to net N186377
+Deleting U2.7 from net VCINTA
+Adding U2.14 to net VCINTA
+Deleting U2.10 from net N186405
+Adding U2.5 to net N186405
+Deleting U2.8 from net N186393
+Adding U2.7 to net N186393
+Deleting U2.5 from net N185933
+Adding U2.10 to net N185933
+Deleting component 31
+Deleting component 30
+*EOF*
+No errors found

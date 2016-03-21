@@ -1,0 +1,126 @@
+Post Processor Report
+OrCAD FILE: C:\USERS\VILLAVERDE\DESKTOP\KAIROS\CARDIOMED\WCS PULSE\PROTOTYPE\LAYOUT\LONGHORN_NEW-1.MAX
+Thu Aug 30 14:27:13 2012
+
+*********************************************************
+
+Output file: C:\USERS\VILLAVERDE\DESKTOP\KAIROS\CARDIOMED\WCS PULSE\PROTOTYPE\LAYOUT\LONGHORN_NEW-1.TOP
+
+Aperture totals for C:\USERS\VILLAVERDE\DESKTOP\KAIROS\CARDIOMED\WCS PULSE\PROTOTYPE\LAYOUT\LONGHORN_NEW-1.TOP:
+---------------------------------------------------------
+D10:  0.0600 SQUARE --       0 Draws,      14 Flashes
+D11:  0.0550 ROUND  --       0 Draws,      10 Flashes
+D12:  0.0550 SQUARE --       0 Draws,       4 Flashes
+D13:  0.0500 SQUARE --       0 Draws,       2 Flashes
+D14:  0.1575 SQUARE --       0 Draws,       4 Flashes
+D15:  0.2028 ROUND  --       0 Draws,       4 Flashes
+D16:  0.0900 x 0.0160 OBLONG    -----      19 Flashes
+D17:  0.0900 x 0.0160 RECTANGLE -----       1 Flashes
+D18:  0.0620 ROUND  --       0 Draws,       2 Flashes
+D19:  0.0100 ROUND  --      87 Draws,       0 Flashes
+D20:  0.0300 ROUND  --       0 Draws,       5 Flashes
+---------------------------------------------------------
+ 11 D-Codes      -----      87 Draws,      65 Flashes
+
+*********************************************************
+
+Output file: C:\USERS\VILLAVERDE\DESKTOP\KAIROS\CARDIOMED\WCS PULSE\PROTOTYPE\LAYOUT\LONGHORN_NEW-1.BOT
+
+Aperture totals for C:\USERS\VILLAVERDE\DESKTOP\KAIROS\CARDIOMED\WCS PULSE\PROTOTYPE\LAYOUT\LONGHORN_NEW-1.BOT:
+---------------------------------------------------------
+D11:  0.0550 ROUND  --       0 Draws,      10 Flashes
+D12:  0.0550 SQUARE --       0 Draws,       4 Flashes
+D15:  0.2028 ROUND  --       0 Draws,       4 Flashes
+D18:  0.0620 ROUND  --       0 Draws,       2 Flashes
+D19:  0.0100 ROUND  --      34 Draws,       0 Flashes
+D20:  0.0300 ROUND  --       0 Draws,       3 Flashes
+D21:  0.0000 ROUND  --   46660 Draws,       0 Flashes
+D22:  0.0300 ROUND  --       0 Draws,       2 Flashes
+---------------------------------------------------------
+  8 D-Codes      -----   46694 Draws,      25 Flashes
+
+*********************************************************
+
+Output file: C:\USERS\VILLAVERDE\DESKTOP\KAIROS\CARDIOMED\WCS PULSE\PROTOTYPE\LAYOUT\LONGHORN_NEW-1.SMT
+
+Aperture totals for C:\USERS\VILLAVERDE\DESKTOP\KAIROS\CARDIOMED\WCS PULSE\PROTOTYPE\LAYOUT\LONGHORN_NEW-1.SMT:
+---------------------------------------------------------
+D10:  0.0600 SQUARE --       0 Draws,      14 Flashes
+D11:  0.0550 ROUND  --       0 Draws,      10 Flashes
+D12:  0.0550 SQUARE --       0 Draws,       4 Flashes
+D13:  0.0500 SQUARE --       0 Draws,       2 Flashes
+D14:  0.1575 SQUARE --       0 Draws,       4 Flashes
+D16:  0.0900 x 0.0160 OBLONG    -----      19 Flashes
+D17:  0.0900 x 0.0160 RECTANGLE -----       1 Flashes
+D23:  0.2047 ROUND  --       0 Draws,       4 Flashes
+D24:  0.0670 ROUND  --       0 Draws,       2 Flashes
+D25:  0.0350 ROUND  --       0 Draws,       5 Flashes
+---------------------------------------------------------
+ 10 D-Codes      -----       0 Draws,      65 Flashes
+
+*********************************************************
+
+Output file: C:\USERS\VILLAVERDE\DESKTOP\KAIROS\CARDIOMED\WCS PULSE\PROTOTYPE\LAYOUT\LONGHORN_NEW-1.SMB
+
+Aperture totals for C:\USERS\VILLAVERDE\DESKTOP\KAIROS\CARDIOMED\WCS PULSE\PROTOTYPE\LAYOUT\LONGHORN_NEW-1.SMB:
+---------------------------------------------------------
+D11:  0.0550 ROUND  --       0 Draws,      10 Flashes
+D12:  0.0550 SQUARE --       0 Draws,       4 Flashes
+D23:  0.2047 ROUND  --       0 Draws,       4 Flashes
+D24:  0.0670 ROUND  --       0 Draws,       2 Flashes
+D25:  0.0350 ROUND  --       0 Draws,       5 Flashes
+---------------------------------------------------------
+  5 D-Codes      -----       0 Draws,      25 Flashes
+
+*********************************************************
+
+Output file: C:\USERS\VILLAVERDE\DESKTOP\KAIROS\CARDIOMED\WCS PULSE\PROTOTYPE\LAYOUT\LONGHORN_NEW-1.SST
+
+Aperture totals for C:\USERS\VILLAVERDE\DESKTOP\KAIROS\CARDIOMED\WCS PULSE\PROTOTYPE\LAYOUT\LONGHORN_NEW-1.SST:
+---------------------------------------------------------
+D19:  0.0100 ROUND  --      94 Draws,       0 Flashes
+D26:  0.0080 ROUND  --      75 Draws,       0 Flashes
+D27:  0.0060 ROUND  --     148 Draws,       0 Flashes
+---------------------------------------------------------
+  3 D-Codes      -----     317 Draws,       0 Flashes
+
+*********************************************************
+
+Output file: C:\USERS\VILLAVERDE\DESKTOP\KAIROS\CARDIOMED\WCS PULSE\PROTOTYPE\LAYOUT\LONGHORN_NEW-1.DRD
+
+Aperture totals for C:\USERS\VILLAVERDE\DESKTOP\KAIROS\CARDIOMED\WCS PULSE\PROTOTYPE\LAYOUT\LONGHORN_NEW-1.DRD:
+---------------------------------------------------------
+D19:  0.0100 ROUND  --     582 Draws,       0 Flashes
+D28:  0.0039 ROUND  --       4 Draws,       0 Flashes
+---------------------------------------------------------
+  2 D-Codes      -----     586 Draws,       0 Flashes
+
+
+*********************************************************
+
+Aperture totals for entire project:
+---------------------------------------------------------
+D10:  0.0600 SQUARE --       0 Draws,      28 Flashes
+D11:  0.0550 ROUND  --       0 Draws,      40 Flashes
+D12:  0.0550 SQUARE --       0 Draws,      16 Flashes
+D13:  0.0500 SQUARE --       0 Draws,       4 Flashes
+D14:  0.1575 SQUARE --       0 Draws,       8 Flashes
+D15:  0.2028 ROUND  --       0 Draws,       8 Flashes
+D16:  0.0900 x 0.0160 OBLONG    -----      38 Flashes
+D17:  0.0900 x 0.0160 RECTANGLE -----       2 Flashes
+D18:  0.0620 ROUND  --       0 Draws,       4 Flashes
+D19:  0.0100 ROUND  --     797 Draws,       0 Flashes
+D20:  0.0300 ROUND  --       0 Draws,       8 Flashes
+D21:  0.0000 ROUND  --   46660 Draws,       0 Flashes
+D22:  0.0300 ROUND  --       0 Draws,       2 Flashes
+D23:  0.2047 ROUND  --       0 Draws,       8 Flashes
+D24:  0.0670 ROUND  --       0 Draws,       4 Flashes
+D25:  0.0350 ROUND  --       0 Draws,      10 Flashes
+D26:  0.0080 ROUND  --      75 Draws,       0 Flashes
+D27:  0.0060 ROUND  --     148 Draws,       0 Flashes
+D28:  0.0039 ROUND  --       4 Draws,       0 Flashes
+---------------------------------------------------------
+ 19 D-Codes      -----   47684 Draws,     180 Flashes
+
+
+No warnings or errors.

@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{CC55FD31-BC1A-4862-97D6-5FD73DE9A1A0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WCS_Pulse</RootNamespace>
+    <AssemblyName>WCS_Pulse</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="cAvaliacao.cs" />
+    <Compile Include="cBroker.cs" />
+    <Compile Include="cDados.cs" />
+    <Compile Include="cPessoa.cs" />
+    <Compile Include="frm_Avaliacao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Avaliacao.Designer.cs">
+      <DependentUpon>frm_Avaliacao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Monitor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Monitor.Designer.cs">
+      <DependentUpon>frm_Monitor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_PesquisaAvaliacao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_PesquisaAvaliacao.Designer.cs">
+      <DependentUpon>frm_PesquisaAvaliacao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_PesquisaPessoa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_PesquisaPessoa.Designer.cs">
+      <DependentUpon>frm_PesquisaPessoa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Pessoa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Pessoa.Designer.cs">
+      <DependentUpon>frm_Pessoa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Principal.Designer.cs">
+      <DependentUpon>frm_Principal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="wcs_pulse_dbDataSet.cs">
+      <DependentUpon>wcs_pulse_dbDataSet.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="wcs_pulse_dbDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>wcs_pulse_dbDataSet.xsd</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="frm_Avaliacao.resx">
+      <DependentUpon>frm_Avaliacao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Monitor.resx">
+      <DependentUpon>frm_Monitor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_PesquisaAvaliacao.resx">
+      <DependentUpon>frm_PesquisaAvaliacao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_PesquisaPessoa.resx">
+      <DependentUpon>frm_PesquisaPessoa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Pessoa.resx">
+      <DependentUpon>frm_Pessoa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Principal.resx">
+      <DependentUpon>frm_Principal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="wcs_pulse_dbDataSet.xsc">
+      <DependentUpon>wcs_pulse_dbDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="wcs_pulse_dbDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>wcs_pulse_dbDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="wcs_pulse_dbDataSet.xss">
+      <DependentUpon>wcs_pulse_dbDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icon0021.bmp" />
+    <None Include="Resources\Icon0013.bmp" />
+    <None Include="Resources\Icon0012.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\monitor_bg.bmp" />
+    <Content Include="wcs_pulse_db.mdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
